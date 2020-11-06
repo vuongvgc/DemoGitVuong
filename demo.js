@@ -6,3 +6,4 @@ console.log("create project");
 console.log("code moi nè");
 console.log("code of dev Nguyen - da chinh noi dung");
 console.log("code of new branch");
+console.log("sd VS Code")
